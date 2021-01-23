@@ -1,8 +1,8 @@
-### Vis�0�0o �� o marquin
+### Visão
 
 
 
-<summary>🍙 Ajuda!</summary>
+<summary>Ajuda!</summary>
 
 ## Ferramentas
 
@@ -24,7 +24,7 @@ Siga os passos abaixo!
 
 ```bash
 > termux-setup-storage
-(depois disso toque na permissão)
+(depois disso toque na permissÃ£o)
 > pkg install git
 > pkg install ffmpeg
 > pkg install wget
@@ -41,194 +41,194 @@ Siga os passos abaixo!
 > npm start
 ```
 
-## características
+## caracterÃ­sticas
 
-| características únicas | sim
+| caracterÃ­sticas Ãºnicas | sim
 | :---------------------------------------------: | :-----------: |
-|  Registrar nome e idade|✅|
-|         Level    |✅|
+|  Registrar nome e idade|âœ…|
+|         Level    |âœ…|
 
 |  FAZ  |                                           sim |
 | :---------------------------------------------: | :-----------: |
-| Sticker Maker|✅|
-| Sticker Gif Maker|✅|
-| Convert Sticker To Image|✅|
-| Convert Video To MP3|✅|
-| Black Pink Logo Maker|✅|
-| 3D Text Maker|✅|
-| Quote Maker|✅|
-| Water Maker|✅|
-| Fire Text Maker|✅|
-| Marvel Logo Maker|✅|
-| Snow Write Maker|✅|
-| Ninja Logo Maker|✅|
-| Logo Wolf Maker|✅|
-| Logo Wolf Maker2|✅|
-| Neon Logo Maker|✅|
-| Neon Logo Maker2|✅|
-| Lion Logo Maker|✅|
-| Joker Logo Maker|✅|
-| Shadow Image Maker|✅|
-| Burn Papper Image Maker|✅|
-| Coffee Image Maker|✅|
-| Love Papper Image Maker|✅|
-| Wood Block Image Maker|✅|
-| Quotes On Wood Heart Image Maker|✅|
-| Message Under The Grass Image Maker|✅|
-| Underground Ocean Image Maker|✅|
-| Wooden Boards Image Maker|✅|
-| Wolf Metal Image Maker|✅|
-| Metalic Text Glow Image Maker|✅|
-| 8 Bit Image Maker|✅|
-| Text Sticker Maker|✅|
-| Herry Potter Image Maker|✅|
-| Pubg Logo Maker|✅|
+| Sticker Maker|âœ…|
+| Sticker Gif Maker|âœ…|
+| Convert Sticker To Image|âœ…|
+| Convert Video To MP3|âœ…|
+| Black Pink Logo Maker|âœ…|
+| 3D Text Maker|âœ…|
+| Quote Maker|âœ…|
+| Water Maker|âœ…|
+| Fire Text Maker|âœ…|
+| Marvel Logo Maker|âœ…|
+| Snow Write Maker|âœ…|
+| Ninja Logo Maker|âœ…|
+| Logo Wolf Maker|âœ…|
+| Logo Wolf Maker2|âœ…|
+| Neon Logo Maker|âœ…|
+| Neon Logo Maker2|âœ…|
+| Lion Logo Maker|âœ…|
+| Joker Logo Maker|âœ…|
+| Shadow Image Maker|âœ…|
+| Burn Papper Image Maker|âœ…|
+| Coffee Image Maker|âœ…|
+| Love Papper Image Maker|âœ…|
+| Wood Block Image Maker|âœ…|
+| Quotes On Wood Heart Image Maker|âœ…|
+| Message Under The Grass Image Maker|âœ…|
+| Underground Ocean Image Maker|âœ…|
+| Wooden Boards Image Maker|âœ…|
+| Wolf Metal Image Maker|âœ…|
+| Metalic Text Glow Image Maker|âœ…|
+| 8 Bit Image Maker|âœ…|
+| Text Sticker Maker|âœ…|
+| Herry Potter Image Maker|âœ…|
+| Pubg Logo Maker|âœ…|
 
 | SimSimi | sim |
 | :-----------------: | :-------: |
-| Simi|✅|
-| Simih|✅|
+| Simi|âœ…|
+| Simih|âœ…|
 
 | MEDIA | sim |
 | :-----------------: | :-------: |
-| Trend Twit|✅|
-| YT Search|✅|
-| Random KPOP|✅|
+| Trend Twit|âœ…|
+| YT Search|âœ…|
+| Random KPOP|âœ…|
 
 | EDUCATION | sim |
 | :-----------------: | :-------: |
-| The Meaning Of The Name|✅|
-| Nulis|✅|
-| Quotes|✅|
-| Quotes2|✅|
+| The Meaning Of The Name|âœ…|
+| Nulis|âœ…|
+| Quotes|âœ…|
+| Quotes2|âœ…|
 
 | ASK | sim |
 | :-----------------: | :-------: |
-| Apakah|✅|
-| Kapankah|✅|
-| Bisakah|✅|
+| Apakah|âœ…|
+| Kapankah|âœ…|
+| Bisakah|âœ…|
 
 | DOWNLOADER | sim |
 | :-----------------: | :-------: |
-| Pinterest Downloader|✅|
-| Ytmp3 Downloader|✅|
-| Ytmp4 Downloader|✅|
-| Joox Downloader|✅|
-| Joox2 Downloader|✅|
-| TikTok Downloader|✅|
+| Pinterest Downloader|âœ…|
+| Ytmp3 Downloader|âœ…|
+| Ytmp4 Downloader|âœ…|
+| Joox Downloader|âœ…|
+| Joox2 Downloader|âœ…|
+| TikTok Downloader|âœ…|
 
 | MEME | sim |
 | :-----------------: | :-------: |
-| Meme|✅|
-| Meme Indo|✅|
+| Meme|âœ…|
+| Meme Indo|âœ…|
 
 | GRUPO | sim |
 | :-----------------: | :-------: |
-| Open Group|✅|
-| Close Group|✅|
-| Promote Member|✅|
-| Demote Member|✅|
-| Hide Tag|✅|
-| Tag All Members|✅|
-| Tag All Members2|✅|
-| Tag All Members3|✅|
-| Tag All Members4|✅|
-| Tag All Members5|✅|
-| Add Member|✅|
-| Kick Member|✅|
-| Show List Admins|✅|
-| Leave Group|✅|
-| Show Owner Group|✅|
-| welcome New Members|✅|
-| Nsfw|✅|
-| Simih|✅|
+| Open Group|âœ…|
+| Close Group|âœ…|
+| Promote Member|âœ…|
+| Demote Member|âœ…|
+| Hide Tag|âœ…|
+| Tag All Members|âœ…|
+| Tag All Members2|âœ…|
+| Tag All Members3|âœ…|
+| Tag All Members4|âœ…|
+| Tag All Members5|âœ…|
+| Add Member|âœ…|
+| Kick Member|âœ…|
+| Show List Admins|âœ…|
+| Leave Group|âœ…|
+| Show Owner Group|âœ…|
+| welcome New Members|âœ…|
+| Nsfw|âœ…|
+| Simih|âœ…|
 
 | SOUND | sim |
 | :-----------------: | :-------: |
-| Text To Speach|✅|
-| Play|✅|
+| Text To Speach|âœ…|
+| Play|âœ…|
 
-| MÚSICA | sim |
+| MÃšSICA | sim |
 | :-----------------: | :-------: |
-| Music Lyrics|✅|
-| Chord Guitar|✅|
+| Music Lyrics|âœ…|
+| Chord Guitar|âœ…|
 
 | ISLAM | sim |
 | :-----------------: | :-------: |
-| Qur'an|✅|
+| Qur'an|âœ…|
 
 | STALK | sim |
 | :-----------------: | :-------: |
-| Instagram Stalk|✅|
-| Tiktok Stalk|✅|
+| Instagram Stalk|âœ…|
+| Tiktok Stalk|âœ…|
 
 | WIBU | sim |
 | :-----------------: | :-------: |
-| Neonime|✅|
-| Pokemon|✅|
-| Nekonime|✅|
-| Loli|✅|
-| Random Shota|✅|
-| Random Waifu|✅|
-| Random Anime|✅|
-| Random Husbu|✅|
-| Random Husbu2|✅|
-| What Anime Is This|✅|
+| Neonime|âœ…|
+| Pokemon|âœ…|
+| Nekonime|âœ…|
+| Loli|âœ…|
+| Random Shota|âœ…|
+| Random Waifu|âœ…|
+| Random Anime|âœ…|
+| Random Husbu|âœ…|
+| Random Husbu2|âœ…|
+| What Anime Is This|âœ…|
 
 | FUN | sim |
 | :-----------------: | :-------: |
-| Alay|✅|
-| Glitch|✅|
-| Game|✅|
-| Cek Ganteng|✅|
-| Watak|✅|
-| Random Hobby|✅|
-| Simi|✅|
+| Alay|âœ…|
+| Glitch|âœ…|
+| Game|âœ…|
+| Cek Ganteng|âœ…|
+| Watak|âœ…|
+| Random Hobby|âœ…|
+| Simi|âœ…|
 
-| INFORMAÇÃO | sim |
+| INFORMAÃ‡ÃƒO | sim |
 | :-----------------: | :-------: |
-| List Bahasa|✅|
-| List Kode Negara|✅|
-| Information Weather|✅|
-| KBBI|✅|
-| Fakta|✅|
-| Covid|✅|
-| Earthquake Information|✅|
-| Ping|✅|
-| Jadwal TV Now|✅|
+| List Bahasa|âœ…|
+| List Kode Negara|âœ…|
+| Information Weather|âœ…|
+| KBBI|âœ…|
+| Fakta|âœ…|
+| Covid|âœ…|
+| Earthquake Information|âœ…|
+| Ping|âœ…|
+| Jadwal TV Now|âœ…|
 
 | 18+ | sim |
 | :-----------------: | :-------: |
-| Random Hentai|✅|
-| NSFW Neko|✅|
-| NSFW Trap|✅|
-| NSFW Ass|✅|
-| NSFW Bobs|✅|
-| NSFW Sidebobs|✅|
+| Random Hentai|âœ…|
+| NSFW Neko|âœ…|
+| NSFW Trap|âœ…|
+| NSFW Ass|âœ…|
+| NSFW Bobs|âœ…|
+| NSFW Sidebobs|âœ…|
 
 
 
 | DONO | sim |
 | :-----------------: | :-------: |
-| Set Prefix|✅|
-| Block Member|✅|
-| Broadcast|✅|
-| Group Broadcast|✅|
-| Clear All Chat|✅|
-| Clone Photo Profile Bot|✅|
+| Set Prefix|âœ…|
+| Block Member|âœ…|
+| Broadcast|âœ…|
+| Group Broadcast|âœ…|
+| Clear All Chat|âœ…|
+| Clone Photo Profile Bot|âœ…|
 
 | OUTROS | sim |
 | :-----------------: | :-------: |
-| Send|✅|
-| WaMe|✅|
-| Virtex|✅|
-| Exe|✅|
-| QrCode|✅|
-| Semoji|✅|
-| FML|✅|
-| FML2|✅|
-| Afk|✅|
-| Timer|✅|
+| Send|âœ…|
+| WaMe|âœ…|
+| Virtex|âœ…|
+| Exe|âœ…|
+| QrCode|âœ…|
+| Semoji|âœ…|
+| FML|âœ…|
+| FML2|âœ…|
+| Afk|âœ…|
+| Timer|âœ…|
 
 ---
 
