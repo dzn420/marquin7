@@ -31,7 +31,7 @@ Siga os passos abaixo!
 > pkg install nodejs
 > pkg install npm
 > git clone https://github.com/marqzxq/marquin7.git
-> cd marquin7
+> cd mqzBOT
 > bash install.sh
 ```
 
